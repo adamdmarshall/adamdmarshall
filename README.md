@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adamdmarshall
-- 👀 I’m interested in AWS, Angular, .Net Core, Typescript, C#, Docker, OCPP, OCPI
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on OCPP / OCPI Proects
+- 👀 I’m interested in computers
+- 💞️ I’m looking to collaborate on stuff that makes money or sense or both
 
 <!---
 adamdmarshall/adamdmarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
